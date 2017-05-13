@@ -1,0 +1,13 @@
+{
+    "name": "root/cli_args",
+    "description": "Args Bitches!",
+    "require": {
+        "corneltek/getoptionkit": "2.5.4"
+    },
+    "authors": [
+        {
+            "name": "David Schissler",
+            "email": "david.schissler@gmail.com"
+        }
+    ]
+}
